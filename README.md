@@ -2,7 +2,7 @@
 # Fitness Calculator
 Larsen & Toubro Technology Services Python Project Repo - A python script for calculating Body Mass Index and Basal Metabolic Rate of a person.
 
-![Banner](https://github.com/shubh-77/260031_Mini_Project_LTTS/blob/main/fitness_calci.gif)
+![Banner](https://github.com/shubh-77/260031_Mini_Project_LTTS/blob/main/fit_img.png)
 
 
 
