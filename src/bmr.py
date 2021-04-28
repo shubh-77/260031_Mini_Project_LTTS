@@ -1,4 +1,4 @@
-# Basal Metabolic Rate Calculator
+# Function to calculate Basal Metabolic Rate
 def calculate_bmr():
     weight = float(input("Enter your weight in KG: \n"))
     height = float(input("Enter your height in cm: \n"))
