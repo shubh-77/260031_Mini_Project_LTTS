@@ -42,7 +42,7 @@ Folder             | Description
 ## Contributors List and Summary
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test Cases|Test Case Pass
 ---------|-------------|----------------|----------------|---------------|-------------|--------------
-`260031` | Shubham Phansekar  | SC1, SC2| 0   | 0  | 00   | 00    
+`260031` | Shubham Phansekar  | SC1, SC2| 0   | 0  | 02   | 02    
 
 | No |Feature  |
 |--|--|

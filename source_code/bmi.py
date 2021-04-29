@@ -1,8 +1,7 @@
 
 # Function to calculate Body Mass Index
-def calculate_bmi():
-    height = float(input("Enter your height in cm: "))
-    weight = float(input("Enter your weight in kg: "))
+def calculate_bmi(weight, height):
+
     BMI = weight / (height/100)**2
     formatted_float_bmi = "{:.2f}".format(BMI)
     status = ""
@@ -36,3 +35,4 @@ def calculate_bmi():
     f.write("\nYour Health status: "+status)
     f.write("\n----------------------------------------------------------------")
     f.close()
+    return BMI

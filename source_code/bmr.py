@@ -1,9 +1,9 @@
 # Function to calculate Basal Metabolic Rate
-def calculate_bmr():
-    weight = float(input("Enter your weight in KG: \n"))
-    height = float(input("Enter your height in cm: \n"))
-    age = int(input("Enter your age in years: \n"))
-    gender = str(input("Are you male? (M/F)")).strip()
+def calculate_bmr(weight, height, age, gender):
+    # weight = float(input("Enter your weight in KG: \n"))
+    # height = float(input("Enter your height in cm: \n"))
+    # age = int(input("Enter your age in years:").strip())
+    # gender = str(input("Are you male? (M/F)")).strip()
 
     # Mifflin St. Jeor Equation for male
     if gender == "M" or gender == "m":
@@ -33,3 +33,4 @@ def calculate_bmr():
     f.write("\nYour Basal Metabolic Rate is:  "+str(bmr)+" calories/day      ")
     f.write("\n-------------------------------------------------------------------")
     f.close()
+    return bmr
