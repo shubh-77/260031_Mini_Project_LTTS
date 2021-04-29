@@ -72,7 +72,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
 # 2. For Running the main.py file in source_code directory
   python3 main.py
 # 3. For Running the test_all.py file source_code directory
-  python -m pytest
+  python3 -m pytest
 ```    
    
 
