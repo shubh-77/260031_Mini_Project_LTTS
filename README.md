@@ -28,7 +28,7 @@ It provides you with quick calculation of below mentioned services:
 Folder             | Description
 -------------------| -----------------------------------------
 `src`              | Source code of the application
-`screenshots`      | Output screenshots
+`screenshots`      | Output screenshots for both BMI and BMR report
 
 
 
@@ -60,10 +60,12 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
 
 
 
-# Usage of the project
+## How to run:
 ```sh
-# For Running the main application
-python3 src/main.py
+# 1. Change location to the source_code directory  
+ cd source_code/
+# 2. For Running the main.py file 
+  python3 main.py
 ```    
    
 
