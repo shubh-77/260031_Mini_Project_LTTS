@@ -14,8 +14,8 @@ if choice == 1:
     BMI = calculate_bmi(weight, height)
     print("BMI:"+str(BMI))
 elif choice == 2:
-    age = int(input("Enter your age in years:").strip())
-    gender = str(input("Are you male? (M/F)")).strip()
+    age = int(input("Enter your age in years: ").strip())
+    gender = input("Are you male? (M/F): ").strip()
     BMR = calculate_bmr(weight, height, age, gender)
     print("BMR:"+str(BMR))
 else:

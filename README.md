@@ -28,7 +28,7 @@ It provides you with quick calculation of below mentioned services:
 Folder             | Description
 -------------------| -----------------------------------------
 `src`              | Source code of the application
-`screenshots`      | Output screenshots for both BMI and BMR report
+`screenshots`      | Output screenshots for both BMI,BMR report and test-cases
 
 
 
@@ -58,14 +58,21 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
 |2. | For Term and Recurring deposit various rate schemes can be applied, which thus result into maturity amount which is always not available in the current market.| Implemented successfully with the help of storage space of c variables. |
 | 3. | Make file not working even after following all steps  | Added make to environment variables  | -->
 
+## Pre-requisites:
+```sh
+# 1. Install pytest
+  pip3 install pytest
 
+```    
 
 ## How to run:
 ```sh
 # 1. Change location to the source_code directory  
  cd source_code/
-# 2. For Running the main.py file 
+# 2. For Running the main.py file in source_code directory
   python3 main.py
+# 3. For Running the test_all.py file source_code directory
+  python -m pytest
 ```    
    
 
