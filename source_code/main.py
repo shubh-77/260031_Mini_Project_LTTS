@@ -1,7 +1,7 @@
 from bmi import calculate_bmi
 from bmr import calculate_bmr
 
-
+# Execution starts from here
 print("\n-------------Welcome Fitness Calculator--------------")
 print("\n--------------Enter Your Choice----------------------")
 print("\n                  1.  BMI                            ")
