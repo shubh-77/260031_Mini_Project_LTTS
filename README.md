@@ -73,6 +73,8 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
   python3 main.py
 # 3. For Running the test_all.py file source_code directory
   python3 -m pytest
+# 4. For Running the pytest verbose command in source_code directory
+  py.test -v  
 ```    
    
 
