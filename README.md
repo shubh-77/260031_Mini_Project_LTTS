@@ -68,7 +68,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
 ## How to run:
 ```sh
 # 1. Change location to the source_code directory  
- cd source_code/
+  cd source_code/
 # 2. For Running the main.py file in source_code directory
   python3 main.py
 # 3. For Running the test_all.py file source_code directory
