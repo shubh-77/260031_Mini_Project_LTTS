@@ -4,6 +4,10 @@ Larsen & Toubro Technology Services Python Project Repo - A python script for ca
 
 ![Banner](https://github.com/shubh-77/260031_Mini_Project_LTTS/blob/main/fit_img.png)
 
+## Badges
+[![Code Coverage [PyTest-Cov]](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/code-coverage-term.yml/badge.svg)](https://github.com/shubh-77/260031_Mini_Project_LTTS/actions/workflows/code-coverage-term.yml)
+
+
 
 
 
